@@ -1,7 +1,37 @@
 title: DataTools4Heart Docs
+description: Comprehensive documentation for DataTools4Heart community software
+baseurl: "/documentation-hub"
+url: "https://datatools4heart.github.io"
 theme: jekyll-theme-minimal
+markdown: kramdown
+
+# Plugins
 plugins:
   - jekyll-relative-links
+
+# Relative links settings
 relative_links:
   enabled: true
   collections: true
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+# Collections (if you decide to use them in the future)
+# collections:
+#   docs:
+#     output: true
+
+# Defaults (useful for setting layouts automatically)
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
