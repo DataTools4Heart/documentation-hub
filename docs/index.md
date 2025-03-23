@@ -7,10 +7,9 @@ title: DataTools4Heart Documentation Hub
 
 Explore our comprehensive documentation for all community software tools.
 
-## Contents
+## Metadata Catalogue
 
-[Metadata Catalogue](/metadata-catalogue/)
-- [Example Use 1: Cohort Exploration](/metadata-catalogue/example-use-1)
-- [Example Use 2: Feature Filtering](/metadata-catalogue/example-use-2)
-- [Example Use 3: Per-Center Availability](/metadata-catalogue/example-use-3)
-
+[Explore Metadata Catalogue]({{ 'metadata-catalogue/' | relative_url }})
+- [Example Use 1: Cohort Exploration]({{ 'metadata-catalogue/use-case-1' | relative_url }})
+- [Example Use 2: Feature Filtering]({{ 'metadata-catalogue/use-case-2' | relative_url }})
+- [Example Use 3: Per-Center Availability]({{ 'metadata-catalogue/use-case-3' | relative_url }})
