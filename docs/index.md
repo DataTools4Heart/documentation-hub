@@ -13,3 +13,11 @@ Explore our comprehensive documentation for all community software tools.
 - [Example Use 1: Cohort Exploration]({{ 'metadata-catalogue/example-use-1' | relative_url }})
 - [Example Use 2: Feature Filtering]({{ 'metadata-catalogue/example-use-2' | relative_url }})
 - [Example Use 3: Per-Center Availability]({{ 'metadata-catalogue/example-use-3' | relative_url }})
+
+## AI Dashboard
+
+[Explore the Federated Execution Manager at the AI Dashboard]({{ 'aidashboard' | realive_url }})
+
+## Tools Manuals
+
+[Tools Manuals]({{ 'tools-manuals' |relative_url }})
