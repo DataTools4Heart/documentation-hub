@@ -33,7 +33,7 @@ The VA supports interaction in 7 languages, selectable from the top-right menu:
 
 Researchers can seamlessly switch between languages during interaction, ensuring accessibility across the European research community.
 
-![Language Selection in the VA](assets/images/virtual_assistant_1.png)  
+![Language Selection in the VA](../assets/images/virtual_assistant_1.png)  
 *Language selection in the VA*
 
 ---
@@ -44,7 +44,7 @@ Researchers can seamlessly switch between languages during interaction, ensuring
 
 Researchers can use the VA to look for studies with specific patient characteristics, such as chronic kidney disease (CKD). Once a study of interest is identified, the VA also provides detailed information about the hospitals (nodes) that are included in the study. The results are retrieved from the **Data Catalogue (DC)**, which displays the relevant datasets together with their associated attributes.
 
-![VA chat example for study search](assets/images/virtual_assistant_2.png)  
+![VA chat example for study search](../assets/images/virtual_assistant_2.png)  
 *Example of study search in the VA (part 2)*
 
 ---
@@ -61,10 +61,10 @@ Before starting a conversation, researchers can request cohort metadata. This st
 
 > **Note:** This step may take several minutes to complete. The status of the metadata request is shown (e.g., running, exited).
 
-![List of aggregated metadata requests](assets/images/virtual_assistant_3_1.png)  
+![List of aggregated metadata requests](../assets/images/virtual_assistant_3_1.png)  
 *Overview of aggregated metadata requests*
 
-![Form to start a new metadata request](assets/images/virtual_assistant_3_2.png)  
+![Form to start a new metadata request](../assets/images/virtual_assistant_3_2.png)  
 *Creating a new metadata request for a specific study and nodes*
 
 ---
