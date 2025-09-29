@@ -1,0 +1,45 @@
+# ----------------------------------------------------------------------
+# GitHub Pages / Documentation Build Ignore List
+# ----------------------------------------------------------------------
+
+# 1. MkDocs Build Output
+# MkDocs builds the static HTML site into a directory named 'site' by default.
+# This should never be committed.
+site/
+
+# 2. Jekyll/GitHub Pages Build Output (if used)
+# Jekyll compiles the site into this folder.
+_site/
+
+# 3. Python Virtual Environments (venv)
+# Python environment folders (always ignore)
+venv/
+.venv/
+
+# 4. Python Bytecode and Artifacts
+# Compiled Python files (pyc)
+__pycache__/
+*.py[cod]
+
+# 5. Packaging and Distribution
+# Ignore distribution-related files and folders
+dist/
+build/
+*.egg-info/
+.tox/
+
+# 6. Operating System and Editor Files
+# Ignore common OS files
+.DS_Store
+Thumbs.db
+
+# 7. Common Editor/IDE files
+# Visual Studio Code
+.vscode/
+
+# PyCharm/IntelliJ
+.idea/
+
+# Vim swap/backup files
+*~
+*.swp
