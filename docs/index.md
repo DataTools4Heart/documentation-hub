@@ -17,6 +17,7 @@ Explore our comprehensive documentation for all community software tools.
 ## AI Dashboard
 
 [Explore the Federated Execution Manager at the AI Dashboard]({{ 'ai-dashboard/' | relative_url }})
+[Explore the Virtual Assistant at the AI Dashboard]({{ 'virtual-assistant/' | relative_url }})
 
 ## Tools Manuals
 
