@@ -29,4 +29,5 @@ Explore our comprehensive documentation for all community software tools.
 
 ## Tools Manuals
 
-[Tools Manuals]({{ 'tools-manuals/' | relative_url }})
+- [FLCore]({{ 'tools-manuals/flcore' | relative_url }})
+- [MIP]({{ 'tools-manuals/mip' | relative_url }})
