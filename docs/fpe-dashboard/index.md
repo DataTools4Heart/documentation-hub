@@ -1,14 +1,14 @@
 ---
 layout: default
-title: AI Dashboard Documentation
-permalink: /ai-dashboard/
+title: Federated Processing Environment User Manual
+permalink: /fpe-dashboard/
 ---
 
-# AI Dashboard
+# Federated Processing Environment
 
 ## Welcome and Tool Selection
 
-After logging into the DT4H platform, the home page of the AI Dashboard shows the multiple tools available for distributed and federated experiments. The current image (Figure 1) shows both `FLCore` and `FedBioMed`.
+After logging into the DT4H platform, the home page of the *Federated Processing Environment* shows the multiple tools available for distributed and federated experiments. The current image (Figure 1) shows a series of tools like both `FLCore`.
 
 ![AI Dahboard - Home (Screenshot)](../assets/images/ai-dashboard_1_openvre.png)
 

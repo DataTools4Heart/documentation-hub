@@ -14,10 +14,14 @@ Explore our comprehensive documentation for all community software tools.
 - [Example Use 2: Feature Filtering]({{ 'metadata-catalogue/example-use-2' | relative_url }})
 - [Example Use 3: Per-Center Availability]({{ 'metadata-catalogue/example-use-3' | relative_url }})
 
-## AI Dashboard
+## Virtual Assistant
 
-- [Explore the **Virtual Assistant** at the AI Dashboard]({{ 'virtual-assistant/' | relative_url }})
-- [Explore the **Federated Execution Manager** at the AI Dashboard]({{ 'ai-dashboard/' | relative_url }})
+- [Explore datasets via **Virtual Assistant**]({{ 'virtual-assistant/' | relative_url }})
+
+## Federated Processing Environment
+
+- [Discover the *dashboard* of the Federated Processing Environment]({{ 'fpe-dashboard/' | relative_url }})
+- [Explore the *API* of the Federated Processing Environment]({{ 'fpe-dashboard/fem-api' | relative_url }})
 
 
 ## Tools Manuals
