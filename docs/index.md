@@ -3,7 +3,7 @@ layout: default
 title: DataTools4Heart Documentation Hub
 ---
 
-# Welcome to DataTools4Heart Documentation
+# Welcome to DataTools4Heart Documentation Hub
 
 Explore our comprehensive documentation for all community software tools.
 
@@ -30,4 +30,4 @@ Explore our comprehensive documentation for all community software tools.
 ## Tools Manuals
 
 - [FLCore]({{ 'tools-manuals/flcore' | relative_url }})
-- [MIP]({{ 'tools-manuals/mip' | relative_url }})
+- [MIP]({{ 'tools-manuals/mip/' | relative_url }})

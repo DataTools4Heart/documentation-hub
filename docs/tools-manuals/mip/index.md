@@ -1,5 +1,9 @@
-# Technical Documentation for the Medical Informatics Platform (MIP)  <!-- omit in toc --> 
+---
+layout: default
+title: MIP User Manual
+---
 
+# Technical Documentation for the Medical Informatics Platform (MIP)  <!-- omit in toc --> 
 
 A powerful federated data processing and analysis system that preserves patient privacy. More info on the [MIP Website](https://ebrains.eu/service/medical-informatics-platform/) 
 
