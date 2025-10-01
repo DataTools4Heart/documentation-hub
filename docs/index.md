@@ -16,13 +16,16 @@ Explore our comprehensive documentation for all community software tools.
 
 ## Virtual Assistant
 
-- [Explore datasets via **Virtual Assistant**]({{ 'virtual-assistant/' | relative_url }})
+- [Explore datasets via Virtual Assistant]({{ 'virtual-assistant/' | relative_url }})
 
 ## Federated Processing Environment
 
 - [Discover the *dashboard* of the Federated Processing Environment]({{ 'fpe-dashboard/' | relative_url }})
 - [Explore the *API* of the Federated Processing Environment]({{ 'fpe-dashboard/fem-api' | relative_url }})
 
+## Benchmarking Platform
+
+- [Discover the *project space* for DT4H at openEBnech](https://openebench.bsc.es/projects/OEBC014)
 
 ## Tools Manuals
 

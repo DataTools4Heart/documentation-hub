@@ -1,3 +1,8 @@
+---
+layout: default
+title: Feature Filtering
+---
+
 # DataTools4Heart Catalogue  
 
 1. [Introduction](#1-introduction)  
