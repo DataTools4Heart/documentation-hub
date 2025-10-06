@@ -24,7 +24,7 @@ In FEM, a "tool" is the core component of any experiment. It refers to a complet
 
 An "execution" is the record of a performed job. It can consist of one or more "tools" or "tasks." For example, when running a `health-check` (a "tool" with a single "task"), we log an execution ID to trace the user who triggered the execution and the nodes on which it was run. Similarly, we can run a `health-check` tool followed by an `Flcore` tool (a single tool with two tasks: `flcore-server` and `flcore-client`), and all of them will be logged under a single execution ID.
 
-## Endpints
+## Endpoints
 
 ### Hosts
 A "host" is a node or machine that has the FEM client installed. Therefore, it is a location where "tools" and "tasks" can be run.
