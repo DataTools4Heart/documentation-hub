@@ -59,5 +59,5 @@ Data can only be queried and downloaded by its owner.
 * `/executions/status/{execution_id}` (_GET_): Returns the status of a given execution.
 * `/executions/cancel_run/{execution_id}` (_GET_): Cancels a given execution.
 * `/executions/logs/{execution_id}` (_GET_): Retrieves the logs of a given execution.
-* `/executions/report/{execution_id}` (_GET_): Returns the resource consumption, exit code, start time, stop time, and elapsed time for the execution.
+* `/executions/report/{execution_id}` (_GET_): Returns the software's image that is/was run, the used environment variables, execution command, resource consumption, exit code, start time, stop time, and elapsed time for the execution.
 
