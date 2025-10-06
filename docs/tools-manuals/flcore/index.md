@@ -1,8 +1,13 @@
+---
+layout: default
+title: FLCore User Manual
+---
+
 # FLCore
 
 This library provides a flexible and extensible framework for running experiments in a federated learning environment, enabling the training and evaluation of different machine learning models across distributed datasets.
 
-![AI Dahboard - FLCore Description (Screenshot)](../assets/images/ai-dashboard_2_openvre_flcore.png)
+![AI Dahboard - FLCore Description (Screenshot)](../../assets/images/ai-dashboard_2_openvre_flcore.png)
 
 The following methods are currently implemented along with the flwr aggregation method used and the code used for selecting a specific method.
 
