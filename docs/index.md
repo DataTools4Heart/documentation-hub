@@ -10,9 +10,6 @@ Explore our comprehensive documentation for all community software tools.
 ## Metadata Catalogue
 
 [Explore Metadata Catalogue]({{ 'metadata-catalogue/' | relative_url }})
-- [Example Use 1: Cohort Exploration]({{ 'metadata-catalogue/example-use-1' | relative_url }})
-- [Example Use 2: Feature Filtering]({{ 'metadata-catalogue/example-use-2' | relative_url }})
-- [Example Use 3: Per-Center Availability]({{ 'metadata-catalogue/example-use-3' | relative_url }})
 
 ## Virtual Assistant
 
@@ -20,8 +17,8 @@ Explore our comprehensive documentation for all community software tools.
 
 ## Federated Processing Environment
 
-- [Discover the *dashboard* of the Federated Processing Environment]({{ 'fpe-dashboard/' | relative_url }})
-- [Explore the *API* of the Federated Processing Environment]({{ 'fpe-dashboard/fem-api' | relative_url }})
+- [Discover the **dashboard** of the Federated Processing Environment]({{ 'fpe-dashboard/' | relative_url }})
+- [Explore the **API** of the Federated Execution Manager (FEM]({{ 'fpe-dashboard/fem-api' | relative_url }})
 
 ## Benchmarking Platform
 
